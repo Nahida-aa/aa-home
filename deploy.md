@@ -111,6 +111,13 @@ git add .
 git commit -m "init: aa-home"
 git remote add origin git@github.com:Nahida-aa/aa-home.git
 git push -u origin main
+# vercel
+# 在项目设置中，选择 "Git Integration" 并连接到你的 GitHub 仓库 Nahida-aa/aa-home
+# 确保 Vercel 配置正确的分支（通常是 main）进行自动部署
+# 每次你推送代码到 GitHub 仓库的 main 分支时，Vercel 会自动触发部署
+# 即
+# pnpm install
+# pnpm build
 ```
 
 ## Docker

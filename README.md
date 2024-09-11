@@ -1,14 +1,14 @@
 <!--
  * @Author: kasuie
  * @Date: 2024-05-20 19:31:13
- * @LastEditors: kasuie
+ * @LastEditors: aa
  * @LastEditTime: 2024-08-18 14:43:53
  * @Description:
 -->
 
 # 个人主页
 
-remio-home(homepage): 基于配置的个人主页
+aa-home(homepage): 基于配置的个人主页
 
 - Next.js构建，服务端渲染，较好的SEO
 - 部署方便，支持docker，vercel快速部署
@@ -20,7 +20,7 @@ remio-home(homepage): 基于配置的个人主页
 
 > ![snow](./images/snow.png) ![desc](./images/desc.png)
 
-[演示 Demo (国内)](https://home.kasuie.cc) [演示 Demo (国外)](https://home.remio.cc) [演示 Demo (Vercel)](https://index.remio.cc)
+[演示 Demo (国内)](https://home.Nahida-aa.us.kg) [演示 Demo (国外)](https://home.remio.cc) [演示 Demo (Vercel)](https://index.remio.cc)
 
 ## 部署
 
