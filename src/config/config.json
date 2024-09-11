@@ -1,0 +1,347 @@
+{
+  "name": "Nahida-aaの主页✨",
+  "favicon": "star-48-round.ico",
+  "keywords": "remio,rem,mio,C.C.,Nahida-aaの次元,Nahida-aa的个人博客,Nahida-aa,个人主页,主页,个人记录,技术博客,个人生活",
+  "description": "Nahida-aaの次元，兴趣至上，内容随缘，个人主页",
+  "avatarConfig": {
+    "src": "avatar/star-360-d.webp",
+    "size": 150,
+    "round": "full",
+    "style": "glint",
+    "hoverAnimate": "top",
+    "hidden": false,
+    "aloneRight": false
+  },
+  "bgConfig": {
+    "bg": [
+      "https://s2.loli.net/2024/06/21/euQ48saP7UgMyDr.webp"
+    ],
+    "mbg": [
+      "https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp"
+    ],
+    "bgStyle": "snow",
+    "blur": "sm",
+    "cardOpacity": 0.1,
+    "carouselGap": 5,
+    "transitionStyle": "default",
+    "transitionTime": 0.7,
+    "carousel": true,
+    "autoAnimate": false
+  },
+  "globalStyle": {
+    "primaryColor": "#0dbf56",
+    "theme": "switcher",
+    "fallback": "cursive,emoji",
+    "fonts": [
+      {
+        "src": "fonts/XiaolaiMonoSC-without-Hangul-Regular.ttf",
+        "name": "XiaolaiMonoSC"
+      }
+    ],
+    "weather": true
+  },
+  "layoutConfig": {
+    "gapSize": "lg",
+    "style": "vertical",
+    "istTransition": true
+  },
+  "subTitle": "https://v1.hitokoto.cn?c=a&c=b&c=c",
+  "subTitleConfig": {
+    "loading": "wave",
+    "typingGap": 10,
+    "style": "desc",
+    "desc": "Nahida-aa是自己胡乱起的，也可以叫我安安;主要捣鼓一些math，会点点后端，目标是改变世界，好耶！🥰",
+    "content": "Hello💫，这里是Nahida-aaの主页",
+    "gapDelay": 0.05,
+    "heart": true,
+    "typing": true,
+    "loopTyping": true,
+    "shadow": true,
+    "typingCursor": true,
+    "showFrom": true
+  },
+  "links": [
+    {
+      "title": "qq",
+      "color": "#dfba00",
+      "url0": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=793752494",
+      "url": "https://qm.qq.com/q/2A5JlYNkGI",
+      "icon": "qq"
+    },
+    {
+      "title": "wakatime",
+      "color": "#1da1f2",
+      "url0": "https://t.me/PixivLips",
+      "url": "https://wakatime.com/@Nahida_aa",
+      "icon": "wakatime"
+    },
+    {
+      "title": "github",
+      "color": "#000000",
+      "url": "https://github.com/Nahida-aa",
+      "icon": "github"
+    },
+    {
+      "title": "twitter",
+      "color": "#1da1f2",
+      "url": "https://twitter.com/kasuie3",
+      "icon": "twitter"
+    },
+    {
+      "title": "email",
+      "color": "#0088cc",
+      "url0": "mailto:i@kasuie.cc",
+      "url": "mailto:Nahida-aa@outlook.com",
+      "icon": "email"
+    },
+    {
+      "title": "steam",
+      "color": "#000000",
+      "url0": "https://s.team/p/fhwd-fwbn/NWWVGPJV",
+      "url": "https://steamcommunity.com/id/Nahida-aa",
+      "icon": "steam"
+    },
+    {
+      "title": "bilibili",
+      "color": "#0088cc",
+      "url": "https://space.bilibili.com/2140306819",
+      "icon": "bilibili"
+    },
+    {
+      "title": "gmail",
+      "color": "#fd3232",
+      "url": "https:Nahida-aa.us.kg",
+      "icon": "gmail"
+    }
+  ],
+  "sites": [
+    {
+      "icon": "avatar/star-256.webp",
+      "title": "aaの次元",
+      "url": "https://Nahida-aa.us.kg",
+      "desc": "博客主页"
+    },
+    {
+      "icon": "avatar/yuuka-256.webp",
+      "title": "Mio 导航",
+      "url": "https://nav.Nahida-aa.us.kg",
+      "desc": "Mio 网站导航"
+    },
+    {
+      "icon": "avatar/aa-256.webp",
+      "title": "aaのAI",
+      "url": "https://ai.Nahida-aa.us.kg",
+      "desc": "ChatGPT"
+    },
+    {
+      "icon": "avatar/Nahida-256.webp",
+      "title": "aaの库",
+      "url": "https://dist.Nahida-aa.us.kg",
+      "desc": "网盘挂载程序"
+    },
+    {
+      "icon": "avatar/yun_miao-256.webp",
+      "title": "aaの图床",
+      "url": "https://upload.Nahida-aa.us.kg",
+      "desc": "图床服务"
+    },
+    {
+      "icon": "avatar/xaa-256.webp",
+      "title": "监控服务",
+      "url": "https://status.Nahida-aa.us.kg/status",
+      "desc": "服务程序监控"
+    },
+    {
+      "icon": "avatar/xc-256.webp",
+      "title": "aaのDocs",
+      "url": "https://docs.Nahida-aa.us.kg",
+      "desc": "文档服务"
+    },
+    {
+      "icon": "avatar/silver-256.webp",
+      "title": "杂七杂八",
+      "desc": "阿巴阿巴..."
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
+      "title": "喜好生成表",
+      "url": "https://like.Nahida-aa.us.kg",
+      "desc": "个人喜好生成表"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
+      "title": "Nahida-aaの次元",
+      "url": "https://hexo.Nahida-aa.us.kg",
+      "desc": "Hexo版本博客程序"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
+      "title": "Nahida-aaの次元",
+      "url": "https://v3.Nahida-aa.us.kg",
+      "desc": "上版本的博客程序(服务关了"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
+      "title": "Nahida-aaの次元",
+      "url": "https://v2.Nahida-aa.us.kg",
+      "desc": "早期博客主题(v2)"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
+      "title": "Nahida-aaの次元",
+      "url": "https://v1.Nahida-aa.us.kg",
+      "desc": "早期博客主题(v1)"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
+      "title": "Nahida-aaの次元",
+      "url": "https://v0.Nahida-aa.us.kg",
+      "desc": "早期博客主题(v0)"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/2ccc4639-8fea-455f-a3b0-ef8073869f2a.jpg",
+      "title": "Nahida-aaの导航",
+      "url": "https://pixlips.github.io",
+      "desc": "导航页(beta)"
+    }
+  ],
+  "sitesConfig": {
+    "cardStyle": "default",
+    "direction": "row",
+    "modalTitle": null,
+    "modalTips": "这里大多都是初学时开发的，算是练手的，技术力不高，看起来也很不好看，算是黑历史，但也算是一段记忆的载体了，所以我想把它保存在此。",
+    "hidden": false,
+    "hoverBlur": true,
+    "hoverScale": true,
+    "hoverFlip": true,
+    "modal": true
+  },
+  "socialConfig": {
+    "loading": "wave",
+    "ripple": true
+  },
+  "sliders": {
+    "title": "技能加点",
+    "color": "linear-gradient(to right, #ffafbd 0%, #c9ffbf 100%)",
+    "column": 4,
+    "hidden": false,
+    "dataSource": "wakatime",
+    "data": [
+      {
+        "title": "Math",
+        "value": "66",
+        "time": "5.1"
+      },
+      {
+        "title": "C/C++",
+        "value": "40"
+      },
+      {
+        "title": "Linux",
+        "value": "60"
+      },
+      {
+        "title": "Machine Learning",
+        "value": "48"
+      },
+      {
+        "title": "Deep Learning",
+        "value": "45"
+      },
+      {
+        "title": "Python",
+        "value": "70"
+      },
+      {
+        "title": "Mysql",
+        "value": "55"
+      },
+      {
+        "title": "Django",
+        "value": "40"
+      },
+      {
+        "title": "Flask",
+        "value": "25"
+      },
+      {
+        "title": "FastAPI",
+        "value": "25"
+      },
+      {
+        "title": "Docker",
+        "value": "45"
+      },
+      {
+        "title": "PostgreSQL",
+        "value": "10"
+      },
+      {
+        "title": "JavaScript/TypeScript",
+        "value": "50",
+        "icon": "qq"
+      },
+      {
+        "title": "HTML/CSS",
+        "value": "40",
+        "icon": "qq"
+      },
+      {
+        "title": "React",
+        "value": "30",
+        "icon": "qq"
+      },
+      {
+        "title": "Vue",
+        "value": "25",
+        "icon": "qq"
+      },
+      {
+        "title": "Next",
+        "value": "30"
+      },
+      {
+        "title": "Java",
+        "value": "30"
+      },
+      {
+        "title": "Spring Boot",
+        "value": "30"
+      },
+      {
+        "title": "Electron",
+        "value": "5.99"
+      },
+      {
+        "title": "uni-app",
+        "value": "40"
+      },
+      {
+        "title": "Markdown/LaTex",
+        "value": "78"
+      },
+      {
+        "title": "MC-mod",
+        "value": "6"
+      },
+      {
+        "title": "Math Modeling",
+        "value": "50"
+      }
+    ]
+  },
+  "footer": {
+    "text": "© 2023 - 2027 By Nahida-aa",
+    "url0": "https:// return JSON.parse(config) as AppConfig;",
+    "url": "https://status.Nahida-aa.us.kg",
+    "ICP": "ICP备xxxxxxxx号",
+    "direction": "col-reverse",
+    "isExternal": true
+  },
+  "resources": {
+    "css": [],
+    "js": [],
+    "bodyHtml": ""
+  },
+  "domain": "https://remio-home.vercel.app"
+}

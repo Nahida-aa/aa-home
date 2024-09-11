@@ -1,0 +1,60 @@
+{
+  "name": "remio-home",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "lint-staged": "lint-staged --allow-empty",
+    "prepare": "husky install"
+  },
+  "author": "kasuie <i@kasuie.cc>",
+  "license": "MIT",
+  "dependencies": {
+    "@kasuie/http": "^0.0.16",
+    "@kasuie/icon": "^0.0.14",
+    "@kasuie/utils": "^0.0.14",
+    "@next/third-parties": "^14.2.3",
+    "@nextui-org/accordion": "^2.0.34",
+    "@nextui-org/checkbox": "^2.1.1",
+    "@nextui-org/input": "^2.2.1",
+    "@nextui-org/radio": "^2.1.1",
+    "@nextui-org/select": "^2.2.1",
+    "@nextui-org/system": "^2.2.1",
+    "@nextui-org/theme": "^2.2.5",
+    "@xaa/icon": "^0.0.3",
+    "crypto-js": "^4.2.0",
+    "framer-motion": "^11.2.9",
+    "next": "14.2.3",
+    "next-pwa": "^5.6.0",
+    "next-themes": "^0.3.0",
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.1.0",
+    "@commitlint/config-conventional": "^19.1.0",
+    "@kasuie/prettier": "^0.1.9",
+    "@types/crypto-js": "^4.2.2",
+    "@types/node": "^20",
+    "@types/react": ">=18",
+    "@types/react-dom": ">=18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx}": "eslint --fix"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

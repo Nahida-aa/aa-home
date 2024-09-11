@@ -1,0 +1,56 @@
+:root {
+  /* 主题色? #ffffff */
+  --mio-main: 255, 255, 255;
+  /* 背景色？ #f9f9f9 */
+  --mio-bg: 249, 249, 249;
+  /* 外部背景色?  */
+  --mio-out-bg: 255, 255, 255;
+  /* 头部背景色? */
+  --mio-header-bg: 255, 255, 255;
+  /* 侧边栏背景色? #f0f2f4 */
+  --mio-aside-bg: 240, 242, 244;
+  /* 文字颜色? #333333 */
+  --mio-text-color: 51, 51, 51;
+  /* 默认文字颜色? #000000 */
+  --mio-text-default: 0, 0, 0;
+  /* 背景渐变起始色? #d6dbdc */
+  --background-start-rgb: 214, 219, 220;
+  /* 背景渐变结束色? #ffffff */
+  --background-end-rgb: 255, 255, 255;
+
+  /* #18ef30 #1c77ff #ffc007 #f13443 */
+  --mio-message-success: 24, 239, 48;
+  --mio-message-info: 28, 119, 255;
+  --mio-message-warning: 255, 192, 7;
+  --mio-message-error: 241, 52, 67;
+}
+
+@media (prefers-color-scheme: dark) {
+  .dark,
+  [data-theme="dark"] {
+    /*dark*/
+    color-scheme: dark;
+    /* #000000 */
+    --mio-main: 0, 0, 0;
+    /* #1b1d1f */
+    --mio-bg: 27, 29, 31;
+    /* #2c2e2f */
+    --mio-out-bg: 44, 46, 47;
+    /* #222426 */
+    --mio-header-bg: 34, 36, 37;
+    /* #2c2e2f */
+    --mio-aside-bg: 44, 46, 47;
+    /* #c6c9cf */
+    --mio-text-color: 198, 201, 207;
+    /* ffffff */
+    --mio-text-default: 255, 255, 255;
+
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+
+    --mio-message-success: 24, 239, 48;
+    --mio-message-info: 28, 119, 255;
+    --mio-message-warning: 255, 192, 7;
+    --mio-message-error: 241, 52, 67;
+  }
+}
